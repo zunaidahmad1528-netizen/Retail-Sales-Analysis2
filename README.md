@@ -41,9 +41,9 @@ retail-sales-analysis/
 │   └── sample_sales.csv      # Small sample dataset (synthetic, for demo)
 ├── src/
 │   └── analysis.py           # The full pipeline
+├── outputs/                  # Charts are saved here
 ├── tests/
 │   └── test_analysis.py      # Automated tests
-├── outputs/                  # Charts are saved here
 ├── requirements.txt
 ├── .gitignore
 └── README.md
