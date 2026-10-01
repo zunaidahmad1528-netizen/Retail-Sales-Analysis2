@@ -1,8 +1,8 @@
 # Retail Sales Analysis
 
-A Python pipeline that takes raw retail sales data, cleans it, calculates the key business numbers, and turns them into clear charts, all with a single command.
+This project turns a retail sales CSV into useful business metrics and charts. I built it to practise a complete data-analysis workflow in Python: load a source file, clean the records, calculate revenue, and make the results easy to review.
 
-I built this project to practise the full workflow a data analyst follows on the job: starting from messy data, ending with insights someone else can actually use. The code is split into small, testable functions rather than one long notebook, so it is easy to read, reuse and extend.
+The included dataset is synthetic, so its numbers are for demonstration only. You can run the project as-is or provide your own CSV file.
 
 ---
 
