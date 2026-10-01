@@ -167,7 +167,7 @@ Python, pandas, Matplotlib, pytest
 
 I am Zunaid, a Computer Science student building my path toward a career in data analytics. I am learning SQL, Python, Excel and Power BI, and I share my projects and learning on GitHub and LinkedIn.
 
-- LinkedIn: add your profile link here
-- GitHub: add your profile link here
+- LinkedIn: https://www.linkedin.com/in/mohd-zunaid-23069a297/?isSelfProfile=true
+- GitHub: https://github.com/zunaidahmad1528-netizen
 
 Feedback and suggestions are very welcome.
