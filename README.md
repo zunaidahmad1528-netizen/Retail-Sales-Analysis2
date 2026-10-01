@@ -159,7 +159,7 @@ The tests confirm that duplicates and invalid rows are removed, that revenue tot
 
 ## Tech stack
 
-Python, pandas, Matplotlib, pytest
+Python, [pandas](https://pandas.pydata.org/docs/), [Matplotlib](https://matplotlib.org/stable/), [pytest](https://docs.pytest.org/en/stable/)
 
 ---
 
