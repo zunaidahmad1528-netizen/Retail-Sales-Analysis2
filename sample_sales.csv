@@ -1,0 +1,401 @@
+order_date,category,region,quantity,unit_price
+2025-01-05,Sports,East,1,189.01
+2025-01-06,Sports,North,5,155.16
+2025-01-08,Sports,North,2,49.94
+2025-01-11,Sports,North,3,63.84
+2025-01-12,Books,North,4,24.17
+2025-01-13,Clothing,North,2,118.31
+2025-01-13,Electronics,East,2,317.41
+2025-01-14,Sports,West,5,121.59
+2025-01-15,Home & Kitchen,South,3,181.62
+2025-01-16,Clothing,South,5,86.2
+2025-01-16,Electronics,South,2,779.42
+2025-01-18,Books,South,1,15.55
+2025-01-19,Books,East,2,9.4
+2025-01-20,Electronics,East,4,237.09
+2025-01-20,Home & Kitchen,North,5,119.95
+2025-01-21,Sports,North,4,138.33
+2025-01-22,Clothing,East,3,69.12
+2025-01-22,Sports,East,5,97.11
+2025-01-23,Books,East,4,30.57
+2025-01-26,Clothing,East,4,49.37
+2025-01-26,Sports,North,3,99.76
+2025-01-27,Books,East,5,18.0
+2025-01-27,Sports,East,2,137.03
+2025-01-29,Sports,North,2,74.26
+2025-01-30,Electronics,East,3,207.55
+2025-01-31,Electronics,South,3,596.28
+2025-02-01,Home & Kitchen,West,3,63.66
+2025-02-03,Electronics,East,4,899.7
+2025-02-04,Books,North,1,10.98
+2025-02-05,Clothing,East,4,50.69
+2025-02-05,Home & Kitchen,East,1,215.4
+2025-02-06,Home & Kitchen,West,1,120.33
+2025-02-07,Books,North,3,27.47
+2025-02-07,Clothing,West,2,109.36
+2025-02-07,Sports,West,4,179.5
+2025-02-08,Clothing,West,5,25.28
+2025-02-08,Electronics,West,3,534.81
+2025-02-08,Sports,South,1,93.53
+2025-02-09,Books,East,5,21.74
+2025-02-10,Electronics,North,3,311.74
+2025-02-11,Electronics,North,5,348.49
+2025-02-11,Sports,South,2,61.63
+2025-02-12,Electronics,West,2,800.14
+2025-02-12,Home & Kitchen,South,3,123.34
+2025-02-13,Home & Kitchen,South,1,76.98
+2025-02-14,Books,East,3,30.71
+2025-02-15,Home & Kitchen,West,1,75.96
+2025-02-16,Clothing,East,3,93.49
+2025-02-16,Electronics,South,4,464.87
+2025-02-17,Electronics,East,2,453.3
+2025-02-17,Electronics,South,2,529.02
+2025-02-17,Electronics,West,3,183.07
+2025-02-17,Sports,West,5,85.13
+2025-02-20,Home & Kitchen,East,5,227.39
+2025-02-21,Books,West,1,31.12
+2025-02-21,Home & Kitchen,North,3,221.57
+2025-02-22,Clothing,East,5,99.58
+2025-02-24,Books,West,3,28.34
+2025-02-25,Clothing,East,5,53.59
+2025-02-25,Home & Kitchen,South,2,63.75
+2025-02-27,Electronics,East,3,329.59
+2025-02-27,Home & Kitchen,East,4,56.38
+2025-02-28,Books,North,4,23.74
+2025-02-28,Clothing,West,1,83.01
+2025-02-28,Sports,East,4,39.96
+2025-03-01,Electronics,East,2,585.44
+2025-03-02,Sports,East,3,146.73
+2025-03-04,Books,North,5,33.58
+2025-03-05,Electronics,South,3,273.49
+2025-03-05,Sports,West,1,119.37
+2025-03-05,Sports,West,3,141.11
+2025-03-06,Electronics,East,1,487.48
+2025-03-06,Electronics,East,5,624.81
+2025-03-06,Electronics,West,5,235.24
+2025-03-06,Sports,East,1,195.37
+2025-03-08,Clothing,East,2,26.54
+2025-03-08,Clothing,West,5,110.62
+2025-03-08,Home & Kitchen,East,2,190.48
+2025-03-09,Electronics,North,3,742.49
+2025-03-09,Sports,West,2,49.2
+2025-03-12,Clothing,East,3,49.45
+2025-03-12,Electronics,East,4,539.5
+2025-03-12,Sports,East,1,135.41
+2025-03-13,Books,West,2,16.91
+2025-03-14,Electronics,South,4,875.45
+2025-03-16,Books,South,5,21.19
+2025-03-17,Sports,West,1,190.35
+2025-03-18,Sports,East,1,124.89
+2025-03-19,Sports,North,4,38.63
+2025-03-20,Electronics,South,4,597.31
+2025-03-20,Sports,South,2,105.24
+2025-03-21,Books,South,3,14.97
+2025-03-22,Home & Kitchen,East,3,185.97
+2025-03-25,Home & Kitchen,West,5,190.04
+2025-03-26,Books,West,2,39.38
+2025-03-26,Sports,East,5,177.04
+2025-03-26,Sports,West,1,93.95
+2025-03-27,Books,West,3,22.31
+2025-03-27,Home & Kitchen,North,2,241.89
+2025-03-29,Clothing,East,5,19.33
+2025-03-29,Clothing,South,1,79.0
+2025-04-01,Clothing,West,1,73.53
+2025-04-03,Sports,East,3,38.47
+2025-04-04,Home & Kitchen,West,2,101.61
+2025-04-05,Home & Kitchen,North,3,236.44
+2025-04-06,Electronics,North,5,200.97
+2025-04-06,Electronics,West,5,440.24
+2025-04-09,Books,South,2,12.96
+2025-04-09,Clothing,South,4,44.03
+2025-04-10,Sports,East,5,71.95
+2025-04-10,Sports,West,4,91.94
+2025-04-12,Clothing,West,5,19.23
+2025-04-13,Clothing,South,5,107.03
+2025-04-15,Home & Kitchen,East,5,132.36
+2025-04-17,Sports,South,2,79.14
+2025-04-18,Home & Kitchen,East,1,160.1
+2025-04-19,Books,South,3,20.77
+2025-04-19,Electronics,East,2,641.58
+2025-04-21,Clothing,East,1,20.31
+2025-04-22,Home & Kitchen,West,4,238.63
+2025-04-23,Sports,North,1,147.41
+2025-04-24,Home & Kitchen,East,2,37.57
+2025-04-27,Home & Kitchen,East,2,89.52
+2025-04-27,Home & Kitchen,North,4,245.02
+2025-04-28,Electronics,North,1,794.73
+2025-04-28,Electronics,North,3,450.87
+2025-04-29,Clothing,West,3,63.25
+2025-05-01,Clothing,North,2,41.88
+2025-05-02,Clothing,West,1,52.89
+2025-05-02,Electronics,West,5,419.22
+2025-05-03,Home & Kitchen,East,4,50.1
+2025-05-04,Electronics,West,4,566.38
+2025-05-09,Sports,South,1,182.61
+2025-05-10,Books,North,4,8.62
+2025-05-11,Clothing,North,4,15.18
+2025-05-15,Electronics,South,5,834.47
+2025-05-16,Clothing,North,1,92.95
+2025-05-16,Sports,South,3,178.56
+2025-05-17,Clothing,South,3,61.0
+2025-05-17,Electronics,West,2,255.66
+2025-05-17,Sports,North,3,150.69
+2025-05-17,Sports,North,4,34.21
+2025-05-18,Sports,East,2,169.53
+2025-05-20,Clothing,East,5,37.12
+2025-05-20,Home & Kitchen,North,3,120.5
+2025-05-21,Books,North,5,35.68
+2025-05-21,Sports,South,3,130.6
+2025-05-23,Books,West,3,13.2
+2025-05-23,Electronics,West,2,712.86
+2025-05-26,Sports,North,3,55.33
+2025-05-27,Books,West,5,29.18
+2025-05-27,Clothing,East,1,105.91
+2025-05-27,Electronics,South,3,401.89
+2025-05-28,Sports,West,1,104.37
+2025-05-29,Clothing,North,2,105.98
+2025-05-29,Electronics,West,5,463.6
+2025-05-30,Clothing,West,1,79.56
+2025-05-30,Sports,South,4,38.47
+2025-05-31,Sports,West,5,128.98
+2025-06-01,Books,East,1,22.99
+2025-06-02,Books,West,1,30.04
+2025-06-02,Books,West,3,26.2
+2025-06-04,Books,South,4,35.31
+2025-06-04,Clothing,North,1,40.04
+2025-06-04,Sports,West,1,30.95
+2025-06-05,Sports,North,2,41.32
+2025-06-06,Clothing,East,4,73.11
+2025-06-06,Home & Kitchen,East,2,47.75
+2025-06-08,Clothing,West,2,53.62
+2025-06-08,Electronics,West,1,584.68
+2025-06-08,Electronics,West,3,759.89
+2025-06-08,Home & Kitchen,South,2,98.6
+2025-06-09,Clothing,North,5,57.84
+2025-06-11,Clothing,North,5,114.84
+2025-06-15,Books,East,1,10.92
+2025-06-15,Home & Kitchen,North,4,218.93
+2025-06-15,Sports,East,2,99.16
+2025-06-16,Electronics,North,3,418.85
+2025-06-16,Electronics,South,5,495.07
+2025-06-17,Books,East,4,16.9
+2025-06-17,Clothing,East,2,95.13
+2025-06-17,Sports,South,1,134.37
+2025-06-20,Books,East,1,35.45
+2025-06-22,Clothing,North,1,54.89
+2025-06-23,Electronics,North,5,565.44
+2025-06-23,Home & Kitchen,East,1,61.72
+2025-06-23,Home & Kitchen,West,1,215.91
+2025-06-23,Sports,South,4,196.55
+2025-06-24,Home & Kitchen,East,5,181.27
+2025-06-26,Books,East,4,30.09
+2025-06-26,Books,East,5,32.41
+2025-06-26,Home & Kitchen,East,1,187.84
+2025-06-26,Home & Kitchen,West,2,194.95
+2025-06-26,Sports,South,5,135.16
+2025-06-29,Books,East,2,15.13
+2025-06-29,Clothing,East,4,28.54
+2025-06-29,Home & Kitchen,West,5,96.16
+2025-06-30,Electronics,East,4,790.09
+2025-07-01,Books,West,4,22.94
+2025-07-02,Electronics,North,3,330.84
+2025-07-05,Clothing,South,1,118.44
+2025-07-05,Home & Kitchen,West,5,27.45
+2025-07-05,Sports,South,1,28.25
+2025-07-05,Sports,West,4,156.8
+2025-07-06,Home & Kitchen,North,3,68.32
+2025-07-07,Books,North,4,9.64
+2025-07-07,Sports,North,4,22.51
+2025-07-08,Sports,West,5,43.36
+2025-07-09,Clothing,East,2,61.01
+2025-07-10,Electronics,South,5,194.99
+2025-07-11,Books,East,5,38.05
+2025-07-11,Electronics,South,1,389.01
+2025-07-14,Clothing,North,4,42.85
+2025-07-14,Sports,East,4,177.03
+2025-07-15,Books,West,5,16.05
+2025-07-15,Electronics,North,4,316.83
+2025-07-16,Clothing,South,5,68.37
+2025-07-17,Books,South,4,38.87
+2025-07-18,Home & Kitchen,West,3,176.15
+2025-07-19,Books,North,5,20.17
+2025-07-23,Books,South,1,26.95
+2025-07-24,Books,West,1,18.0
+2025-07-24,Clothing,East,3,105.76
+2025-07-24,Sports,East,2,199.52
+2025-07-25,Books,West,1,23.69
+2025-07-25,Sports,North,4,176.69
+2025-07-26,Clothing,North,5,40.85
+2025-07-30,Home & Kitchen,South,3,56.62
+2025-07-30,Home & Kitchen,West,3,172.39
+2025-07-31,Clothing,North,2,92.34
+2025-08-03,Sports,South,4,137.89
+2025-08-06,Home & Kitchen,East,3,181.66
+2025-08-07,Sports,West,2,153.86
+2025-08-09,Clothing,West,2,58.45
+2025-08-09,Electronics,South,3,695.63
+2025-08-12,Home & Kitchen,North,4,226.89
+2025-08-12,Sports,West,1,104.6
+2025-08-13,Books,North,5,9.28
+2025-08-13,Books,South,3,19.93
+2025-08-13,Home & Kitchen,West,1,77.02
+2025-08-14,Books,West,3,39.16
+2025-08-14,Clothing,West,4,63.77
+2025-08-14,Sports,West,3,160.06
+2025-08-15,Books,East,3,26.93
+2025-08-16,Clothing,East,4,39.57
+2025-08-16,Electronics,South,3,827.57
+2025-08-19,Books,East,2,34.88
+2025-08-19,Clothing,East,1,58.56
+2025-08-19,Electronics,South,3,603.75
+2025-08-20,Electronics,South,5,182.52
+2025-08-21,Electronics,North,2,631.28
+2025-08-22,Books,East,2,39.38
+2025-08-22,Electronics,South,4,650.68
+2025-08-23,Home & Kitchen,East,1,22.14
+2025-08-23,Sports,North,1,170.6
+2025-08-26,Books,West,5,28.58
+2025-08-27,Electronics,East,5,268.48
+2025-08-29,Clothing,West,3,34.06
+2025-08-29,Sports,East,1,61.67
+2025-08-30,Clothing,North,5,107.84
+2025-08-30,Home & Kitchen,South,4,123.18
+2025-08-31,Clothing,West,2,24.9
+2025-08-31,Sports,East,1,155.59
+2025-09-01,Electronics,West,3,534.93
+2025-09-02,Sports,South,1,192.94
+2025-09-04,Books,South,4,36.88
+2025-09-05,Books,West,2,22.62
+2025-09-05,Sports,West,4,168.63
+2025-09-06,Books,North,4,18.76
+2025-09-06,Books,West,4,16.74
+2025-09-07,Sports,East,1,59.69
+2025-09-12,Electronics,West,2,246.89
+2025-09-13,Clothing,East,5,89.07
+2025-09-15,Books,East,2,20.36
+2025-09-15,Clothing,East,1,106.79
+2025-09-15,Electronics,South,5,856.21
+2025-09-16,Books,West,5,16.95
+2025-09-17,Home & Kitchen,East,4,95.02
+2025-09-17,Home & Kitchen,North,3,126.2
+2025-09-17,Sports,North,4,177.2
+2025-09-18,Clothing,West,1,94.36
+2025-09-19,Clothing,West,2,84.18
+2025-09-21,Books,West,4,36.13
+2025-09-21,Electronics,South,3,651.73
+2025-09-21,Home & Kitchen,East,1,208.24
+2025-09-24,Home & Kitchen,West,2,83.16
+2025-09-25,Sports,East,3,56.77
+2025-09-26,Electronics,East,1,865.05
+2025-09-26,Sports,East,1,169.87
+2025-09-27,Books,West,4,34.35
+2025-09-28,Sports,West,2,167.04
+2025-09-29,Electronics,South,3,413.32
+2025-09-29,Home & Kitchen,East,2,79.1
+2025-09-30,Electronics,South,2,644.81
+2025-10-01,Clothing,South,2,63.54
+2025-10-03,Books,South,4,15.02
+2025-10-03,Clothing,South,4,62.63
+2025-10-04,Clothing,North,5,49.04
+2025-10-04,Clothing,South,5,75.5
+2025-10-05,Home & Kitchen,West,4,34.32
+2025-10-05,Sports,East,3,173.25
+2025-10-08,Books,North,3,17.18
+2025-10-08,Clothing,West,1,96.5
+2025-10-09,Books,North,4,10.82
+2025-10-11,Home & Kitchen,North,5,215.77
+2025-10-11,Home & Kitchen,South,2,116.7
+2025-10-12,Home & Kitchen,North,5,238.05
+2025-10-15,Clothing,East,5,59.99
+2025-10-15,Electronics,South,5,464.64
+2025-10-15,Sports,East,1,93.95
+2025-10-15,Sports,North,3,63.51
+2025-10-16,Electronics,South,4,674.6
+2025-10-16,Sports,North,1,116.77
+2025-10-17,Clothing,South,1,102.13
+2025-10-17,Clothing,West,1,29.9
+2025-10-18,Clothing,North,1,91.85
+2025-10-20,Clothing,West,2,84.76
+2025-10-20,Clothing,West,2,104.88
+2025-10-20,Clothing,West,5,82.09
+2025-10-21,Electronics,East,4,509.04
+2025-10-21,Electronics,South,5,425.21
+2025-10-21,Home & Kitchen,South,4,214.39
+2025-10-23,Electronics,South,2,642.55
+2025-10-24,Books,East,4,22.14
+2025-10-24,Electronics,North,3,192.87
+2025-10-24,Electronics,North,3,581.85
+2025-10-24,Sports,West,2,100.38
+2025-10-25,Electronics,East,2,183.25
+2025-10-26,Home & Kitchen,South,4,49.31
+2025-10-27,Home & Kitchen,West,3,44.92
+2025-10-28,Sports,North,3,123.72
+2025-10-29,Books,East,1,32.28
+2025-10-29,Clothing,East,1,33.3
+2025-11-01,Sports,East,4,130.28
+2025-11-02,Books,North,5,26.4
+2025-11-02,Books,West,3,25.17
+2025-11-02,Clothing,North,3,105.13
+2025-11-02,Sports,North,1,48.0
+2025-11-05,Clothing,South,1,33.6
+2025-11-07,Books,South,5,20.17
+2025-11-07,Clothing,East,2,81.84
+2025-11-07,Clothing,South,3,112.79
+2025-11-07,Electronics,West,3,731.81
+2025-11-07,Home & Kitchen,South,3,218.14
+2025-11-09,Electronics,North,2,619.14
+2025-11-09,Sports,West,3,25.17
+2025-11-10,Clothing,East,4,36.02
+2025-11-11,Electronics,West,4,585.25
+2025-11-11,Home & Kitchen,West,3,167.08
+2025-11-11,Sports,North,5,187.24
+2025-11-12,Books,West,3,9.05
+2025-11-13,Electronics,North,2,623.37
+2025-11-14,Books,South,2,35.67
+2025-11-14,Books,South,4,37.21
+2025-11-16,Home & Kitchen,East,1,185.54
+2025-11-17,Home & Kitchen,South,4,46.4
+2025-11-18,Books,East,3,23.45
+2025-11-19,Sports,North,2,46.86
+2025-11-20,Books,South,2,10.02
+2025-11-20,Electronics,East,1,397.27
+2025-11-22,Electronics,West,3,340.24
+2025-11-24,Home & Kitchen,South,2,106.0
+2025-11-24,Home & Kitchen,South,3,213.86
+2025-11-26,Books,West,2,16.48
+2025-11-28,Clothing,South,3,101.8
+2025-11-29,Electronics,East,2,253.2
+2025-11-29,Home & Kitchen,East,2,240.92
+2025-11-30,Sports,East,5,165.48
+2025-12-02,Books,South,1,23.02
+2025-12-02,Clothing,North,1,96.73
+2025-12-03,Electronics,West,4,190.65
+2025-12-05,Home & Kitchen,East,3,122.56
+2025-12-05,Home & Kitchen,North,2,75.17
+2025-12-07,Home & Kitchen,East,3,239.33
+2025-12-08,Clothing,North,3,96.91
+2025-12-11,Clothing,East,2,99.69
+2025-12-11,Electronics,North,1,451.97
+2025-12-13,Books,South,5,26.21
+2025-12-13,Electronics,North,5,466.44
+2025-12-14,Clothing,West,3,54.06
+2025-12-14,Sports,West,3,65.36
+2025-12-15,Sports,North,2,195.51
+2025-12-18,Sports,South,3,97.63
+2025-12-20,Clothing,West,4,62.06
+2025-12-20,Electronics,South,5,177.02
+2025-12-21,Books,West,3,37.58
+2025-12-24,Clothing,West,3,44.18
+2025-12-25,Books,East,4,11.73
+2025-12-25,Home & Kitchen,East,1,244.93
+2025-12-25,Home & Kitchen,West,3,135.11
+2025-12-26,Electronics,North,5,690.63
+2025-12-26,Home & Kitchen,West,1,178.1
+2025-12-27,Sports,East,5,197.09
+2025-12-27,Sports,South,5,120.57
+2025-12-28,Clothing,South,1,58.56
+2025-12-28,Sports,West,5,21.74
+2025-12-29,Books,South,4,13.64
+2025-12-30,Books,West,3,11.69
+2025-12-30,Home & Kitchen,South,3,237.92
+2025-12-31,Sports,East,4,199.03
